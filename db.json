@@ -1,0 +1,41 @@
+{
+    "producto":[
+        {
+            "Id":1,
+            "Descripcion": "Mouse",
+            "Precio" : "30.00",
+            "Imagen" : "https://rymportatiles.com.pe/cdn/shop/files/Mouse-Logitech-G203-lila.jpg?v=1696019954&width=900"
+        },
+        {
+            "Id":2,
+            "Descripcion": "Mouse",
+            "Precio" : "30.00",
+            "Imagen" : "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/m100/gallery/m100-black-gallery-1.png?v=1"
+        },
+        {
+            "Id":3,
+            "Descripcion": "Pantalla",
+            "Precio" : "30.00",
+            "Imagen" : "https://http2.mlstatic.com/D_NQ_NP_921319-MLA51454599687_092022-O.webp"
+        },
+        {
+            "Id":4,
+            "Descripcion": "Memoria RaM",
+            "Precio" : "30.00",
+            "Imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqdPXp6WYA3uc7JN0PJJSWc-dwCE2ZGEYaExLgMoE-RA&s"
+        },
+        {
+            "Id":5,
+            "Descripcion": "Case",
+            "Precio" : "120.00",
+            "Imagen" : "https://promart.vteximg.com.br/arquivos/ids/3900316-1000-1000/image-6379a4f21fd84c61a78ea2befc186965.jpg?v=637777051048770000"
+        },
+        {
+            "Id":6,
+            "Descripcion": "Teclado",
+            "Precio" : "25.00",
+            "Imagen" : "https://hiraoka.com.pe/media/mageplaza/blog/post/c/o/como_elegir_un_teclado.jpg"
+        }
+
+    ]
+}
